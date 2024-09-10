@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Email">Email</string>
+    <string name="Fullname">Fullname</string>
+    <string name="Username">Username</string>
+    <string name="pwd">Password</string>
+    <string name="account">Do you have an account? <font color="#0000FF"><u>Login</u></font></string>
+</resources>
